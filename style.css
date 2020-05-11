@@ -1,0 +1,46 @@
+.carousel-item{
+    padding: 20px 20px;
+}
+.button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+.card{
+    box-shadow: 7px 7px 7px lightgray;
+    border: none;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white; 
+    border-top: none;
+}
+.container{
+    margin-bottom: 100px;
+    
+}
+.see-all{
+    color: orange;
+    margin-bottom: 30px;
+}
+h2{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: orange;
+}
+.categories img{
+    width: 130px;
+}
+.border{
+    border-radius: 2px;
+    border: white;
+    box-shadow: 5px 8px 5px lightgray;
+    padding: 10px 10px;
+}
+#img{
+    height: 300px;
+    width: 300px;
+}
